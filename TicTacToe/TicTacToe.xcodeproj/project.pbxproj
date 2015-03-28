@@ -13,6 +13,7 @@
 		DC8C2C291AC69C1600504A65 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8C2C281AC69C1600504A65 /* Images.xcassets */; };
 		DC8C2C2C1AC69C1600504A65 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DC8C2C2A1AC69C1600504A65 /* LaunchScreen.xib */; };
 		DC8C2C381AC69C1600504A65 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8C2C371AC69C1600504A65 /* TicTacToeTests.swift */; };
+		DCF58AE31AC70FC40099F301 /* TTTImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF58AE21AC70FC40099F301 /* TTTImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DC8C2C311AC69C1600504A65 /* TicTacToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC8C2C361AC69C1600504A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC8C2C371AC69C1600504A65 /* TicTacToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeTests.swift; sourceTree = "<group>"; };
+		DCF58AE21AC70FC40099F301 /* TTTImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TTTImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				DC8C2C211AC69C1600504A65 /* AppDelegate.swift */,
 				DC8C2C231AC69C1600504A65 /* ViewController.swift */,
+				DCF58AE21AC70FC40099F301 /* TTTImageView.swift */,
 				DC8C2C251AC69C1600504A65 /* Main.storyboard */,
 				DC8C2C281AC69C1600504A65 /* Images.xcassets */,
 				DC8C2C2A1AC69C1600504A65 /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				DC8C2C241AC69C1600504A65 /* ViewController.swift in Sources */,
 				DC8C2C221AC69C1600504A65 /* AppDelegate.swift in Sources */,
+				DCF58AE31AC70FC40099F301 /* TTTImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				DC8C2C3D1AC69C1600504A65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC8C2C3E1AC69C1600504A65 /* Build configuration list for PBXNativeTarget "TicTacToeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				DC8C2C401AC69C1600504A65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
