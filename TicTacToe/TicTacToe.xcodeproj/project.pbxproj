@@ -14,6 +14,7 @@
 		DC8C2C2C1AC69C1600504A65 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DC8C2C2A1AC69C1600504A65 /* LaunchScreen.xib */; };
 		DC8C2C381AC69C1600504A65 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8C2C371AC69C1600504A65 /* TicTacToeTests.swift */; };
 		DCF58AE31AC70FC40099F301 /* TTTImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF58AE21AC70FC40099F301 /* TTTImageView.swift */; };
+		DCF58AE51AC712310099F301 /* MPCHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF58AE41AC712310099F301 /* MPCHandler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		DC8C2C361AC69C1600504A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC8C2C371AC69C1600504A65 /* TicTacToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeTests.swift; sourceTree = "<group>"; };
 		DCF58AE21AC70FC40099F301 /* TTTImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TTTImageView.swift; sourceTree = "<group>"; };
+		DCF58AE41AC712310099F301 /* MPCHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MPCHandler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				DC8C2C211AC69C1600504A65 /* AppDelegate.swift */,
 				DC8C2C231AC69C1600504A65 /* ViewController.swift */,
 				DCF58AE21AC70FC40099F301 /* TTTImageView.swift */,
+				DCF58AE41AC712310099F301 /* MPCHandler.swift */,
 				DC8C2C251AC69C1600504A65 /* Main.storyboard */,
 				DC8C2C281AC69C1600504A65 /* Images.xcassets */,
 				DC8C2C2A1AC69C1600504A65 /* LaunchScreen.xib */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC8C2C241AC69C1600504A65 /* ViewController.swift in Sources */,
+				DCF58AE51AC712310099F301 /* MPCHandler.swift in Sources */,
 				DC8C2C221AC69C1600504A65 /* AppDelegate.swift in Sources */,
 				DCF58AE31AC70FC40099F301 /* TTTImageView.swift in Sources */,
 			);
