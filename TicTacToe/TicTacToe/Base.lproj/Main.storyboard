@@ -16,39 +16,39 @@
                                 <rect key="frame" x="0.0" y="65" width="320" height="438"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Pzs-9m-6Xl" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Pzs-9m-6Xl" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="43" y="174" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="1" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Npv-av-a9Q" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="1" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Npv-av-a9Q" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="132" y="174" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="2" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="0ck-0h-zjL" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="2" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="0ck-0h-zjL" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="217" y="174" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="3" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="WKU-Tb-k9a" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="3" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="WKU-Tb-k9a" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="43" y="264" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="4" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="PZr-eC-BgF" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="4" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="PZr-eC-BgF" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="132" y="264" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="5" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="wbc-Lx-oOT" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="5" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="wbc-Lx-oOT" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="217" y="264" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="6" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="GLT-v4-uMn" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="6" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="GLT-v4-uMn" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="43" y="351" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="7" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Y82-CQ-Meb" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="7" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="Y82-CQ-Meb" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="132" y="351" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" tag="8" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="ERy-t1-0V7" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
+                            <imageView tag="8" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="x" id="ERy-t1-0V7" customClass="TTTImageView" customModule="TicTacToe" customModuleProvider="target">
                                 <rect key="frame" x="217" y="351" width="57" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -59,6 +59,17 @@
                         <barButtonItem key="leftBarButtonItem" title="Connect" id="g0F-zf-COQ"/>
                         <barButtonItem key="rightBarButtonItem" title="New Game" id="cTw-OS-IKX"/>
                     </navigationItem>
+                    <connections>
+                        <outletCollection property="fields" destination="Pzs-9m-6Xl" collectionClass="NSMutableArray" id="upd-zc-ev6"/>
+                        <outletCollection property="fields" destination="Npv-av-a9Q" collectionClass="NSMutableArray" id="aGN-KK-C46"/>
+                        <outletCollection property="fields" destination="0ck-0h-zjL" collectionClass="NSMutableArray" id="2gy-Fq-gGw"/>
+                        <outletCollection property="fields" destination="WKU-Tb-k9a" collectionClass="NSMutableArray" id="7Nd-Fh-8eD"/>
+                        <outletCollection property="fields" destination="PZr-eC-BgF" collectionClass="NSMutableArray" id="vvx-Fa-noY"/>
+                        <outletCollection property="fields" destination="wbc-Lx-oOT" collectionClass="NSMutableArray" id="Sew-rd-4eN"/>
+                        <outletCollection property="fields" destination="GLT-v4-uMn" collectionClass="NSMutableArray" id="JWj-RM-3DZ"/>
+                        <outletCollection property="fields" destination="Y82-CQ-Meb" collectionClass="NSMutableArray" id="HTn-5C-LaU"/>
+                        <outletCollection property="fields" destination="ERy-t1-0V7" collectionClass="NSMutableArray" id="dgm-FT-Dfx"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
